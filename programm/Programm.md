@@ -13,12 +13,14 @@
 - Полицейская реформа, например использование нательных камер – bodycam
 - Более строгое исполнение уже существующих законов, да вообще хоть какое-то исполнение. Как пример лёгкие наркотики, если не преследуем, то тогда легализация. Или/или
 - Строительство доступного социального жилья
+- Tegel?
 
 # Arbeit/ Fachkräfte
 (?)
 # Bildung/ Frühkindliche Bildung
 + Abschaffung des Konzepts „Schreiben wie man spricht“
 + Fokus auf Medienkompetenz in der Bildung
+– besserer Zugang zur frühkindlichen Förderung für sozialschwache Familien (1Sport + 1 mal Kunst pro Woche kann bis zu 100 euro monatlich kosten — zu teuer)
 ## Hochschulen
 + Ausgaben für Bildung deutlich erhöhen
 + Konkurrenzfähig machen
@@ -31,6 +33,8 @@
 Sofortige Maßnahmen zur Verbesserung der Kindergarten Situation: 
 - mehr Kindergärten, 
 - höheres Lohn für Personal.
+— flexiblere Betreuungszeiten (Sommerschließzeiten,spätere Betreuung,vor allem für im Schichtdienst arbeitende Alleinerziehende,
+- flexible Weiterbildungsmöglichkeiten für Erzieher
 # Bundeswehr
 - Службу в армии сделать привлекательнее. Поступление без экзаменов в любую фаххохшуле на любую профессию. 
 - Право хранения оружия дома – автоматически. (?)
